@@ -1,0 +1,7 @@
+{
+  "name": "Community Value Market",
+  "description": "A comprehensive community-driven market platform featuring inventory management, real-time reservations, and a customer-facing product catalog with membership benefits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
